@@ -14,12 +14,15 @@ This is a project to perfect React understanding of state and props
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-Clone this repository [clone](https://github.com/MICHAELMUNAVU83/react-searchbar.git)
-cd react-searchbar
-Run npm install
-Open one terminal and type "npm run server" , Do not close this terminal
-Open another terminal and run "npm start" and open localhost:8000
+-To get a local copy up and running follow these simple example steps.
+-Clone this repository [clone](https://github.com/MICHAELMUNAVU83/react-searchbar.git)
+-cd react-searchbar
+-Run npm install
+-Open one terminal and type "npm run server" , Do not close this terminal
+-Open another terminal and run "npm start" and open localhost:8000
+-Checkout to your branch
+-Pull from the dev branch as it is the default
+- Code away
 
 ## Authors
 
